@@ -1,2 +1,4 @@
 # Bear
-Code for the analysis of an acient bear proteome
+Code for the analysis of an ancient bear proteome
+
+Bits of code developed for the analysis of a rich ancient proteome
